@@ -14,29 +14,30 @@ Confira o projeto no [Fokus](https://fokus-local-storage-tau.vercel.app/).
 - Limpeza de tarefas concluídas ou de todas as tarefas.
 
 ## Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+- **HTML**: Estrutura do conteúdo da página.
+- **CSS**: Estilização e layout da interface.
+- **JavaScript**: Lógica de cálculo e manipulação de DOM.
 
-## Estrutura do Projeto
-O projeto é estruturado com os seguintes diretórios e arquivos principais:
-- `index.html`: Contém a estrutura da página web.
-- `styles.css`: Folha de estilos para estilização da aplicação.
-- `script.js` e `script-crud.js`: Arquivos JavaScript para funcionalidades da aplicação.
 
-## Como Usar
-1. Abra o arquivo `index.html` em um navegador web compatível.
-2. Utilize os botões de "Foco", "Descanso curto" ou "Descanso longo" para iniciar os timers.
-3. Adicione, edite ou exclua tarefas na lista de tarefas.
-4. Gerencie suas atividades de forma produtiva!
 
-## Autor
-Este projeto foi desenvolvido por [Agata Domingues Farias](https://www.linkedin.com/in/agatadominguesfarias/) como parte de um estudo prático.
+## Como Configurar o Projeto
 
-## Notas
-- Projeto fictício e sem fins comerciais.
-- Imagens geradas por IA no Adobe Firefly.
+Para executar este projeto localmente, siga os passos abaixo:
 
----
-
-*Este README foi criado para documentar o projeto e sua utilização de forma resumida. Para mais detalhes, consulte o código-fonte e os comentários nos arquivos relevantes.*
+1. **Clone o Repositório**
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/Fokus-localStorage.git
+```
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/Fokus-localStorage.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\Fokus-localStorage
+```
+2. **Abra o arquivo index.html no seu navegador**
+- Utilize os botões de "Foco", "Descanso curto" ou "Descanso longo" para iniciar os timers.
+- Adicione, edite ou exclua tarefas na lista de tarefas.
+- Gerencie suas atividades de forma produtiva!
