@@ -18,8 +18,6 @@ Confira o projeto no [Fokus](https://fokus-local-storage-tau.vercel.app/).
 - **CSS**: Estilização e layout da interface.
 - **JavaScript**: Lógica de cálculo e manipulação de DOM.
 
-
-
 ## Como Configurar o Projeto
 
 Para executar este projeto localmente, siga os passos abaixo:
